@@ -58,8 +58,8 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.9f1c1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Script\Camera.cs" />
     <Compile Include="Assets\Material.cs" />
+    <Compile Include="Assets\Script\Camera1.cs" />
     <Compile Include="Assets\Script\Player.cs" />
     <Compile Include="Assets\Script\Food.cs" />
   </ItemGroup>
